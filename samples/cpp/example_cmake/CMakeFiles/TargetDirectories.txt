@@ -1,0 +1,3 @@
+/home/tan/opencvTest2/samples/cpp/example_cmake/CMakeFiles/rebuild_cache.dir
+/home/tan/opencvTest2/samples/cpp/example_cmake/CMakeFiles/edit_cache.dir
+/home/tan/opencvTest2/samples/cpp/example_cmake/CMakeFiles/opencv_example.dir
